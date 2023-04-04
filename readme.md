@@ -33,4 +33,4 @@ I'm MD RIDWAN ROBIN </h1>
 
 <img src="https://komarev.com/ghpvc/?username=RK-404&label=Profile%20views&color=0e75b6&style=flat" alt="RK-404"/>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/RK-404)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=RK-404.RK-404)
