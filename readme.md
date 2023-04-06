@@ -42,6 +42,6 @@ I'm MD RIDWAN ROBIN </h1>
 
 ---
 
-[![Profile Views](https://komarev.com/ghpvc/?username=RK-404&color=brightgreen&style=for-the-badge)](https://github.com/RK-404/)
+[![Profile Views](https://komarev.com/ghpvc/?username=RK-404&color=ba004a&style=for-the-badge)](https://github.com/RK-404/)
 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=RK-404.RK-404) -->
