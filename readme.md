@@ -3,13 +3,13 @@ I'm MD RIDWAN ROBIN </h1>
 
 ---
 
-- 🏫 Currently enrolled in [**_Pursuit Fellowship_**](https://www.pursuit.org/) learning **Javascript**, **HTML**, & **CSS** aspiring to become a Full-Stack developer.
+- 🏫 Currently enrolled in <a href="https://www.pursuit.org/" target="_blank">**_Pursuit Fellowship_**</a> learning **Javascript**, **HTML**, & **CSS** aspiring to become a Full-Stack developer.
 
 - 👨‍💻 I also have the basic knowledge of **C**, **C++**, **Java** & **Assembly Language** programing.
 
 - 😎 Self motivated and family loving person!
 
-- 👨‍🔬 Currently working on: [**Portfolio Project**](https://rk-404.github.io/my-portfolio/) | [**Weather App**](https://rk-404.github.io/project-weather-app/) | [**Ghibli Review App**](https://rk-404.github.io/assessment-final-fewd/) | [**Trrivia Questions**](https://rk-404.github.io/lab-api-calls-with-fetch/)
+- 👨‍🔬 Currently working on: <a href="https://rk-404.github.io/my-portfolio/" target="_blank">**Portfolio Project**</a> | <a href="https://rk-404.github.io/project-weather-app/" target="_blank">**Weather App**</a> | <a href="https://rk-404.github.io/assessment-final-fewd/" target="_blank">**Ghibli Review App**</a> | <a href="https://rk-404.github.io/lab-api-calls-with-fetch/" target="_blank">**Trrivia Questions**</a>
 
 ---
 
