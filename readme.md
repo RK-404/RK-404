@@ -36,12 +36,12 @@ I'm MD RIDWAN ROBIN </h1>
 
 **📬 Contact me:**
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdridwanrobin/) [![Facebook](https://img.shields.io/badge/facebook-1a478a.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/Rizwan.K404/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdridwanrobin/)
 
  📧 Email: ridwanrobin@pursuit.org
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=RK-404&color=ba004a&style=for-the-badge" alt="Profile Views"/>
+[![Profile Views](https://komarev.com/ghpvc/?username=RK-404&color=ba004a&style=for-the-badge)](https://github.com/RK-404/)
 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=RK-404.RK-404) -->
